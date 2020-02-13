@@ -1,2 +1,0 @@
-# Python_Code_testing
-用来存储在学习Python的时候写的测试用例
